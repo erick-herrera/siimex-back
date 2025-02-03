@@ -1,0 +1,20 @@
+npm install --save helmet
+npm install --save jsonwebtoken
+npm install --save dotenv
+npm install mariadb
+npm install --save mysql
+
+-- bi lioteca para generar contraseñas
+npm install generate-password
+
+--biblioteca para envio de correos
+npm install nodemailer
+npm install multer
+
+
+
+revisar:
+https://asfo.medium.com/autenticando-un-api-rest-con-nodejs-y-jwt-json-web-tokens-5f3674aba50e
+
+
+node --disable-warning=ExperimentalWarning .\apiServerCatalogos.js
