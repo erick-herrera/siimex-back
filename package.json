@@ -18,7 +18,7 @@
     "properties-reader": "^2.3.0"
   },
   "scripts": {
-    "test": "test"
+    "start": "node apiServerTransaccionales.js"
   },
   "author": "Erick Herrera",
   "license": "ISC"
